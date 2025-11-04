@@ -1,0 +1,6 @@
+# Temel gereksinimler
+magenta>=2.1.0
+note-seq
+pretty_midi
+tensorflow>=2.6.0  # Magenta sürümüne göre uyumlu TF gereklidir
+numpy
